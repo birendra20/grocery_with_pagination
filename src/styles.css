@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  background-color: orangered;
+  margin-left: 10px;
+}
+.data {
+  width: 30%;
+  margin: auto;
+  margin-top: 30px;
+
+  display: flex;
+}
